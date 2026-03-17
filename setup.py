@@ -28,8 +28,8 @@ dependencies = [
     'sphinxcontrib-htmlhelp==2.0.1',
     'sphinxcontrib-qthelp==1.0.3',
     'sphinxcontrib-serializinghtml==1.1.5',
-    'sphinx==4.5.0',
-    'sphinx-markdown-builder==0.5.5',
+    'sphinx==5.3.0',
+    'sphinx-markdown-builder',
     'sphinxcontrib.napoleon',
     'unidecode',
     'wheel>=0.24.0'
